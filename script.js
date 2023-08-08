@@ -5,7 +5,8 @@ let songlist =
     'Vampire',
     'Seven',
     'Fearless',
-    'Snooze'
+    'Snooze',
+    'Young and Beautiful'
   ];
 
 let index = 0;
